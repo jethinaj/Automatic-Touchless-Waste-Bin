@@ -32,14 +32,10 @@ Servo Motor:
 ---
 
 ## Arduino Code
-The complete Arduino code is provided in the file:
 
-automatic_waste_bin.ino
+The complete Arduino code is available here:
 
----
-
-## Project Image
-(Add your project image here after uploading)
+[automatic_waste_bin.ino](./automatic_waste_bin.ino)
 
 ---
 
@@ -54,3 +50,4 @@ automatic_waste_bin.ino
 ##  Demo Video
 
 [![Watch Demo](images/project.jpg)](https://youtube.com/shorts/ghAIxvmLkwc?si=u8y7A-Dmhe-KzMkK)
+
