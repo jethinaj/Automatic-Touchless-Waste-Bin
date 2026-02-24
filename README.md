@@ -48,4 +48,9 @@ automatic_waste_bin.ino
 - Arduino Programming
 - Sensor Interfacing
 - Servo Motor Control
+
 - Basic Automation
+
+##  Demo Video
+
+[![Watch Demo](images/project.jpg)](https://youtube.com/shorts/ghAIxvmLkwc?si=u8y7A-Dmhe-KzMkK)
